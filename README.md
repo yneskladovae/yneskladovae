@@ -28,7 +28,8 @@ Looking for a good specialist ? 👇
     <img alt="Photoshop" src="https://img.shields.io/badge/-photoshop-282a36?style=for-the-badge&amp;logo=adobe-photoshop&amp;logoColor=31A8FF"/>
     <img alt="Figma" src="https://img.shields.io/badge/-figma-282a36?style=for-the-badge&amp;logo=figma&amp;logoColor=31A8FF"/>
   </div>
-  
-![](https://komarev.com/ghpvc/?username=yneskladovae&color=blue)
-
+  </br>
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=yneskladovae&&style=flat-square" align="center" />
+   </div>  
 </div>
