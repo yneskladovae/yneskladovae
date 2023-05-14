@@ -23,7 +23,7 @@ Looking for a good specialist ? 👇
     <img alt="CSS" src="https://img.shields.io/badge/-css3_/_scss_/_sass_/_BEM-282a36?style=for-the-badge&amp;logo=css3&amp;logoColor=3296D0"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap&nbsp;/&nbsp;material_ui-282a36?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=7952B3"/>
     <img alt="API" src="https://img.shields.io/badge/-rest_api-282a36?style=for-the-badge&amp;logo=fastapi&amp;logoColor=#009688"/>
-    <img alt="Jest" src="https://img.shields.io/badge/-jest&nbsp;/&nbsp;Unit&nbsp;Test-282a36?style=for-the-badge&amp;logo=jest"/>
+    <img alt="Jest test" src="https://img.shields.io/badge/-jest&nbsp;/&nbsp;Unit&nbsp;Test-282a36?style=for-the-badge&amp;logo=jest"/>
     <img alt="GitHub" src="https://img.shields.io/badge/-git&nbsp;/&nbsp;github-282a36?style=for-the-badge&amp;logo=github"/>
     <img alt="Photoshop" src="https://img.shields.io/badge/-photoshop-282a36?style=for-the-badge&amp;logo=adobe-photoshop&amp;logoColor=31A8FF"/>
     <img alt="Figma" src="https://img.shields.io/badge/-figma-282a36?style=for-the-badge&amp;logo=figma&amp;logoColor=31A8FF"/>
