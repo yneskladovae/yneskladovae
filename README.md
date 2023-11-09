@@ -8,21 +8,22 @@
   [![Telegram](https://img.shields.io/badge/-telegram-0273B2?style=for-the-badge&logo=telegram)](https://t.me/hoootdog)
   [![LinkedIn](https://img.shields.io/badge/-linkedin-0273B2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denis-polunosik/)
 
+<!--
   ### 🚀 My Stats:
   <table style="border-collapse: collapse;">
     <tr>
-<!--       <td style="border: none;">
+      <td style="border: none;">
         <a href="https://git.io/streak-stats">
           <img src="http://github-readme-streak-stats.herokuapp.com?user=yneskladovae&hide_border=true" alt="GitHub Streak" style="border: none;">
         </a>
-      </td> -->
+      </td>
       <td style="border: none;">
         <a href="https://github.com/yneskladovae/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yneskladovae&langs_count=3&hide_border=true" alt="Top Languages" style="border: none;">
         </a>
       </td>
     </tr>
-  </table>
+  </table> -->
 
 ### 🚀 Skills:
   <div align="center">
